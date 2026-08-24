@@ -1,7 +1,1496 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CyC2018/CS-Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121395510,
+                "language": null,
+                "last_commit": "2024-08-21T09:40:10Z",
+                "owner": "CyC2018",
+                "repo": "CS-Notes",
+                "stars": 185619
+              }
+            }
+          ],
+          "description": "😋 技术面试必备基础知识",
+          "node_type": "group",
+          "title": "CS-Notes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HIT-Alibaba/interview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30110748,
+                "language": "Shell",
+                "last_commit": "2020-08-31T08:13:25Z",
+                "owner": "HIT-Alibaba",
+                "repo": "interview",
+                "stars": 5252
+              }
+            }
+          ],
+          "description": "笔试面试知识整理\n在线阅读",
+          "node_type": "group",
+          "title": "interview"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yangshun/tech-interview-handbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62607227,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T12:06:42Z",
+                "owner": "yangshun",
+                "repo": "tech-interview-handbook",
+                "stars": 142118
+              }
+            }
+          ],
+          "description": "💯 Algorithms study materials, behavioral content and tips for rocking your coding interview （英文）",
+          "node_type": "group",
+          "title": "tech-interview-handbook"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MaximAbramchuck/awesome-interview-questions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47018239,
+                "language": null,
+                "last_commit": "2024-07-29T14:21:23Z",
+                "owner": "DopplerHQ",
+                "repo": "awesome-interview-questions",
+                "stars": 84187
+              }
+            }
+          ],
+          "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 （英文）",
+          "node_type": "group",
+          "title": "awesome-interview-questions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "InterviewMap/CS-Interview-Knowledge-Map",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125791597,
+                "language": null,
+                "last_commit": "2020-05-03T00:47:59Z",
+                "owner": "InterviewMap",
+                "repo": "CS-Interview-Knowledge-Map",
+                "stars": 18255
+              }
+            }
+          ],
+          "description": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.\n这是一份能让你更好准备下一次面试的图谱",
+          "node_type": "group",
+          "title": "CS-Interview-Knowledge-Map"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "8483/notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75187094,
+                "language": "Shell",
+                "last_commit": "2026-07-14T15:19:49Z",
+                "owner": "8483",
+                "repo": "notes",
+                "stars": 3387
+              }
+            }
+          ],
+          "description": "Full-stack web development notes.",
+          "node_type": "group",
+          "title": "notes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arkingc/note",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122694826,
+                "language": "C++",
+                "last_commit": "2023-06-07T13:44:53Z",
+                "owner": "arkingc",
+                "repo": "note",
+                "stars": 2128
+              }
+            }
+          ],
+          "description": "学习笔记整理📚",
+          "node_type": "group",
+          "title": "note"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "linw7/Skill-Tree",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95624763,
+                "language": "C",
+                "last_commit": "2020-03-03T17:34:50Z",
+                "owner": "linw7",
+                "repo": "Skill-Tree",
+                "stars": 3708
+              }
+            }
+          ],
+          "description": "🐼 准备秋招，欢迎来树上取果实",
+          "node_type": "group",
+          "title": "Skill-Tree"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wx-chevalie/Awesome-Interviews",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202320983,
+                "language": "HTML",
+                "last_commit": "2026-05-06T12:26:09Z",
+                "owner": "wx-chevalier",
+                "repo": "Awesome-RoadMaps-and-Interviews",
+                "stars": 153
+              }
+            }
+          ],
+          "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
+          "node_type": "group",
+          "title": "Awesome-Interviews"
+        }
+      ],
+      "title": "知识体系"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xingshaocheng/architect-awesome",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128398636,
+                "language": null,
+                "last_commit": "2024-04-11T11:32:12Z",
+                "owner": "xingshaocheng",
+                "repo": "architect-awesome",
+                "stars": 60841
+              }
+            }
+          ],
+          "description": "后端架构师技术图谱",
+          "node_type": "group",
+          "title": "architect-awesome"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lemonjing/EasyJob",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61171892,
+                "language": null,
+                "last_commit": "2026-02-26T03:47:31Z",
+                "owner": "taoran92",
+                "repo": "EasyJob",
+                "stars": 2264
+              }
+            }
+          ],
+          "description": "🔥2018互联网求职面试知识复习",
+          "node_type": "group",
+          "title": "EasyJob"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ityouknow/spring-boot-examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72907253,
+                "language": "Java",
+                "last_commit": "2023-11-18T16:32:16Z",
+                "owner": "ityouknow",
+                "repo": "spring-boot-examples",
+                "stars": 30504
+              }
+            }
+          ],
+          "description": "About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 http://www.ityouknow.com/",
+          "node_type": "group",
+          "title": "spring-boot-examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "doocs/advanced-java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151834062,
+                "language": "Java",
+                "last_commit": "2026-08-24T12:26:20Z",
+                "owner": "doocs",
+                "repo": "advanced-java",
+                "stars": 79076
+              }
+            }
+          ],
+          "description": "😮 互联网 Java 工程师进阶知识完全扫盲",
+          "node_type": "group",
+          "title": "advanced-java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "0voice/interview_internal_reference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191113739,
+                "language": "Python",
+                "last_commit": "2025-10-22T09:39:06Z",
+                "owner": "0voice",
+                "repo": "interview_internal_reference",
+                "stars": 37237
+              }
+            }
+          ],
+          "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+          "node_type": "group",
+          "title": "interview_internal_reference"
+        }
+      ],
+      "title": "后端"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "helloqingfeng/Awsome-Front-End-learning-resource",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66709063,
+                "language": "PHP",
+                "last_commit": "2024-03-16T19:34:06Z",
+                "owner": "helloqingfeng",
+                "repo": "Awsome-Front-End-learning-resource",
+                "stars": 10044
+              }
+            }
+          ],
+          "description": ":octocat: GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）",
+          "node_type": "group",
+          "title": "Awsome-Front-End-learning-resource"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "paddingme/Front-end-Web-Development-Interview-Question",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24668606,
+                "language": "HTML",
+                "last_commit": "2024-04-23T09:16:59Z",
+                "owner": "paddingme",
+                "repo": "Front-end-Web-Development-Interview-Question",
+                "stars": 6841
+              }
+            }
+          ],
+          "description": "前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘",
+          "node_type": "group",
+          "title": "Front-end-Web-Development-Interview-Question"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yangshun/front-end-interview-handbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117372806,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T08:25:31Z",
+                "owner": "yangshun",
+                "repo": "front-end-interview-handbook",
+                "stars": 43994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "中文版本",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117372806,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T08:25:31Z",
+                "owner": "yangshun",
+                "repo": "front-end-interview-handbook",
+                "stars": 43994
+              }
+            }
+          ],
+          "description": "🕸 Almost complete answers to \"Front-end Job Interview Questions\" which you can use to interview potential candidates, test yourself or completely ignore （英文）",
+          "node_type": "group",
+          "title": "front-end-interview-handbook"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ElemeFE/node-interview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79780572,
+                "language": "HTML",
+                "last_commit": "2020-10-19T03:29:22Z",
+                "owner": "ElemeFE",
+                "repo": "node-interview",
+                "stars": 10472
+              }
+            }
+          ],
+          "description": "How to pass the Node.js interview of ElemeFE.",
+          "node_type": "group",
+          "title": "node-interview"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Advanced-Frontend/Daily-Interview-Question",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166535974,
+                "language": "JavaScript",
+                "last_commit": "2020-11-09T01:07:00Z",
+                "owner": "Advanced-Frontend",
+                "repo": "Daily-Interview-Question",
+                "stars": 27390
+              }
+            }
+          ],
+          "description": "工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+          "node_type": "group",
+          "title": "Daily-Interview-Question"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ruanyf/es6tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18964487,
+                "language": "JavaScript",
+                "last_commit": "2026-07-07T16:26:21Z",
+                "owner": "ruanyf",
+                "repo": "es6tutorial",
+                "stars": 21432
+              }
+            }
+          ],
+          "description": "《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。\n阅读地址",
+          "node_type": "group",
+          "title": "es6tutorial"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ustbhuangyi/vue-analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101625394,
+                "language": "JavaScript",
+                "last_commit": "2023-07-18T03:12:29Z",
+                "owner": "ustbhuangyi",
+                "repo": "vue-analysis",
+                "stars": 7659
+              }
+            }
+          ],
+          "description": "👍 Vue.js 源码分析 https://ustbhuangyi.github.io/vue-analysis/",
+          "node_type": "group",
+          "title": "vue-analysis"
+        }
+      ],
+      "title": "前端"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ShanghaiTechAIClub/DLInterview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126849151,
+                "language": null,
+                "last_commit": "2018-05-03T03:02:13Z",
+                "owner": "ShanghaiTechAIClub",
+                "repo": "DLInterview",
+                "stars": 1110
+              }
+            }
+          ],
+          "description": "Deep Learning Interview 深度学习面试题目汇总",
+          "node_type": "group",
+          "title": "DLInterview"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scutan90/DeepLearning-500-questions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138839979,
+                "language": "JavaScript",
+                "last_commit": "2024-06-26T12:10:14Z",
+                "owner": "scutan90",
+                "repo": "DeepLearning-500-questions",
+                "stars": 57569
+              }
+            }
+          ],
+          "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。",
+          "node_type": "group",
+          "title": "DeepLearning-500-questions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NLP-LOVE/ML-NLP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195408640,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-01-09T15:16:21Z",
+                "owner": "NLP-LOVE",
+                "repo": "ML-NLP",
+                "stars": 17798
+              }
+            }
+          ],
+          "description": "此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。",
+          "node_type": "group",
+          "title": "ML-NLP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elviswf/DeepLearningBookQA_cn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109283854,
+                "language": null,
+                "last_commit": "2017-11-02T15:50:10Z",
+                "owner": "elviswf",
+                "repo": "DeepLearningBookQA_cn",
+                "stars": 875
+              }
+            }
+          ],
+          "description": "深度学习面试问题 回答对应的DeepLearning中文版页码",
+          "node_type": "group",
+          "title": "DeepLearningBookQA_cn"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HarleysZhang/2019_algorithm_intern_information",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177110043,
+                "language": "Python",
+                "last_commit": "2026-05-10T10:31:11Z",
+                "owner": "harleyszhang",
+                "repo": "cv_note",
+                "stars": 2636
+              }
+            }
+          ],
+          "description": "2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结",
+          "node_type": "group",
+          "title": "2019_algorithm_intern_information"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nndl/nndl.github.io",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1248337609,
+                "language": "CSS",
+                "last_commit": "2026-06-25T03:17:48Z",
+                "owner": "nndl",
+                "repo": "nndl.github.io",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "《神经网络与深度学习》 Neural Network and Deep Learning\nhttps://nndl.github.io",
+          "node_type": "group",
+          "title": "nndl.github.io"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "datawhalechina/pumpkin-book",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162783195,
+                "language": null,
+                "last_commit": "2026-04-22T20:35:48Z",
+                "owner": "datawhalechina",
+                "repo": "pumpkin-book",
+                "stars": 26000
+              }
+            }
+          ],
+          "description": "《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book",
+          "node_type": "group",
+          "title": "pumpkin-book"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lihanghang/Knowledge-Graph",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168149502,
+                "language": null,
+                "last_commit": "2025-02-08T11:30:03Z",
+                "owner": "lihanghang",
+                "repo": "NLP-Knowledge-Graph",
+                "stars": 1764
+              }
+            }
+          ],
+          "description": "深度学习与自然语言处理、知识图谱、对话系统。包括知识获取、知识库构建、知识库应用三大技术研究与应用。",
+          "node_type": "group",
+          "title": "Knowledge-Graph"
+        }
+      ],
+      "title": "算法"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "hadyang/interview",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66618435,
+                    "language": null,
+                    "last_commit": "2022-07-17T08:22:31Z",
+                    "owner": "hadyang",
+                    "repo": "interview",
+                    "stars": 4848
+                  }
+                }
+              ],
+              "description": "Java / Android 笔试、面试 知识整理",
+              "node_type": "group",
+              "title": "interview"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "leerduo/InterviewQuestion",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39747886,
+                    "language": null,
+                    "last_commit": "2016-10-23T11:48:05Z",
+                    "owner": "leerduo",
+                    "repo": "InterviewQuestion",
+                    "stars": 731
+                  }
+                }
+              ],
+              "description": "整理的常见的问题",
+              "node_type": "group",
+              "title": "InterviewQuestion"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LRH1993/android_interview",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 98419904,
+                    "language": "HTML",
+                    "last_commit": "2021-02-06T06:07:09Z",
+                    "owner": "LRH1993",
+                    "repo": "android_interview",
+                    "stars": 2948
+                  }
+                }
+              ],
+              "description": "gitbook地址",
+              "node_type": "group",
+              "title": "android_interview"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MindorksOpenSource/android-interview-questions",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 96704265,
+                    "language": "Java",
+                    "last_commit": "2026-03-21T09:31:59Z",
+                    "owner": "amitshekhariitbhu",
+                    "repo": "android-interview-questions",
+                    "stars": 12367
+                  }
+                }
+              ],
+              "description": "Your Cheat Sheet For Android Interview - Android Interview Questions （英文）",
+              "node_type": "group",
+              "title": "android-interview-questions"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "liberalisman/iOS-InterviewQuestion-collection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124481973,
+                    "language": "Objective-C",
+                    "last_commit": "2021-06-09T12:01:29Z",
+                    "owner": "liberalisman",
+                    "repo": "iOS-InterviewQuestion-collection",
+                    "stars": 3236
+                  }
+                }
+              ],
+              "description": "iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。",
+              "node_type": "group",
+              "title": "iOS-InterviewQuestion-collection"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS"
+        }
+      ],
+      "title": "客户端"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "taizilongxu/interview_python",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33428461,
+                    "language": "Shell",
+                    "last_commit": "2025-03-05T09:14:51Z",
+                    "owner": "taizilongxu",
+                    "repo": "interview_python",
+                    "stars": 17370
+                  }
+                }
+              ],
+              "description": "关于Python的面试题",
+              "node_type": "group",
+              "title": "interview_python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TheAlgorithms/Python",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63476337,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T18:46:06Z",
+                    "owner": "TheAlgorithms",
+                    "repo": "Python",
+                    "stars": 223987
+                  }
+                }
+              ],
+              "description": "All Algorithms implemented in Python",
+              "node_type": "group",
+              "title": "Python"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Snailclimb/JavaGuide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132464395,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-24T09:08:16Z",
+                    "owner": "Snailclimb",
+                    "repo": "JavaGuide",
+                    "stars": 157995
+                  }
+                }
+              ],
+              "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+              "node_type": "group",
+              "title": "JavaGuide"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "huihut/interview",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120887835,
+                    "language": "C++",
+                    "last_commit": "2025-08-24T07:01:54Z",
+                    "owner": "huihut",
+                    "repo": "interview",
+                    "stars": 38148
+                  }
+                }
+              ],
+              "description": "📚 C/C++面试基础知识总结",
+              "node_type": "group",
+              "title": "interview"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "0voice/developkit_set",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191890050,
+                    "language": null,
+                    "last_commit": "2024-05-20T12:17:58Z",
+                    "owner": "0voice",
+                    "repo": "developkit_set",
+                    "stars": 999
+                  }
+                }
+              ],
+              "description": "2019年最新总结，值得推荐的c/c++开源框架与库。持续更新中。",
+              "node_type": "group",
+              "title": "developkit_set"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        }
+      ],
+      "title": "语言"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gatieme/CodingInterviews",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55763831,
+                "language": "C++",
+                "last_commit": "2021-02-20T15:09:56Z",
+                "owner": "gatieme",
+                "repo": "CodingInterviews",
+                "stars": 4857
+              }
+            }
+          ],
+          "description": "剑指Offer——名企面试官精讲典型编程题",
+          "node_type": "group",
+          "title": "CodingInterviews"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "julycoding/The-Art-Of-Programming-By-July",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15183485,
+                "language": "C",
+                "last_commit": "2023-02-26T17:05:49Z",
+                "owner": "julycoding",
+                "repo": "The-Art-Of-Programming-By-July-2nd",
+                "stars": 21499
+              }
+            }
+          ],
+          "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+          "node_type": "group",
+          "title": "The-Art-Of-Programming-By-July"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "leeguandong/Interview-code-practice-python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115782352,
+                "language": "Python",
+                "last_commit": "2019-10-28T02:03:31Z",
+                "owner": "leeguandong",
+                "repo": "Interview-code-practice-python",
+                "stars": 1575
+              }
+            }
+          ],
+          "description": "面试题",
+          "node_type": "group",
+          "title": "Interview-code-practice-python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "apachecn/Interview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106807883,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-20T08:12:51Z",
+                "owner": "apachecn",
+                "repo": "Interview",
+                "stars": 8959
+              }
+            }
+          ],
+          "description": "Interview = 简历指南 + LeetCode + Kaggle",
+          "node_type": "group",
+          "title": "Interview"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "haoel/leetcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 25449064,
+                    "language": "C++",
+                    "last_commit": "2024-01-17T16:23:10Z",
+                    "owner": "haoel",
+                    "repo": "leetcode",
+                    "stars": 18067
+                  }
+                }
+              ],
+              "description": "LeetCode Problems' Solutions （C++）",
+              "node_type": "group",
+              "title": "leetcode"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MisterBooo/LeetCodeAnimation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160640094,
+                    "language": "Java",
+                    "last_commit": "2026-06-12T13:49:06Z",
+                    "owner": "MisterBooo",
+                    "repo": "LeetCodeAnimation",
+                    "stars": 76699
+                  }
+                }
+              ],
+              "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+              "node_type": "group",
+              "title": "LeetCodeAnimation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Blankj/awesome-java-leetcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88524149,
+                    "language": "Java",
+                    "last_commit": "2020-12-10T15:20:21Z",
+                    "owner": "Blankj",
+                    "repo": "awesome-java-leetcode",
+                    "stars": 8692
+                  }
+                }
+              ],
+              "description": "👑 LeetCode of algorithms with java solution(updating).",
+              "node_type": "group",
+              "title": "awesome-java-leetcode"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lessfish/leetcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40422990,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-14T02:46:56Z",
+                    "owner": "lessfish",
+                    "repo": "leetcode",
+                    "stars": 1540
+                  }
+                }
+              ],
+              "description": "✏️ LeetCode solutions with JavaScript",
+              "node_type": "group",
+              "title": "leetcode"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "soapyigu/LeetCode-Swift",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55123440,
+                    "language": "Swift",
+                    "last_commit": "2024-05-18T11:02:25Z",
+                    "owner": "soapyigu",
+                    "repo": "LeetCode-Swift",
+                    "stars": 4962
+                  }
+                }
+              ],
+              "description": "Solutions to LeetCode by Swift",
+              "node_type": "group",
+              "title": "LeetCode-Swift"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "HuberTRoy/leetCode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141866636,
+                    "language": "Python",
+                    "last_commit": "2021-07-26T05:18:08Z",
+                    "owner": "HuberTRoy",
+                    "repo": "leetCode",
+                    "stars": 1811
+                  }
+                }
+              ],
+              "description": "✏️ 算法相关知识储备 LeetCode with Python 📚",
+              "node_type": "group",
+              "title": "leetcode"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LeetCode"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "kamyu104/LintCode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30876709,
+                    "language": "C++",
+                    "last_commit": "2020-10-03T17:49:56Z",
+                    "owner": "kamyu104",
+                    "repo": "LintCode",
+                    "stars": 631
+                  }
+                }
+              ],
+              "description": "✏️ C++ 11 Solutions of All 289 LintCode Problems",
+              "node_type": "group",
+              "title": "LintCode"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LintCode"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "amylmy/KickStart-GoogleCompetition",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144704465,
+                    "language": "Java",
+                    "last_commit": "2020-01-19T07:35:20Z",
+                    "owner": "amylmy",
+                    "repo": "KickStart-GoogleCompetition",
+                    "stars": 31
+                  }
+                }
+              ],
+              "description": "My Java implementation of Kick Start - Google's Coding Competitions. (not finished)",
+              "node_type": "group",
+              "title": "KickStart-GoogleCompetition"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Harmon758/Google-Kick-Start",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 134320311,
+                    "language": "Python",
+                    "last_commit": "2022-05-30T23:16:13Z",
+                    "owner": "Harmon758",
+                    "repo": "Google-Kick-Start",
+                    "stars": 244
+                  }
+                }
+              ],
+              "description": "Google Kick Start https://g.co/kickstart",
+              "node_type": "group",
+              "title": "Google-Kick-Start"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Google KickStart"
+        }
+      ],
+      "title": "算法题"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "geekcompany/ResumeSample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23783375,
+                "language": null,
+                "last_commit": "2024-08-14T10:20:23Z",
+                "owner": "geekcompany",
+                "repo": "ResumeSample",
+                "stars": 28254
+              }
+            }
+          ],
+          "description": "Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板",
+          "node_type": "group",
+          "title": "ResumeSample"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "salomonelli/best-resume-ever",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80472665,
+                "language": "Vue",
+                "last_commit": "2024-06-11T19:09:25Z",
+                "owner": "salomonelli",
+                "repo": "best-resume-ever",
+                "stars": 16473
+              }
+            }
+          ],
+          "description": "👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.",
+          "node_type": "group",
+          "title": "best-resume-ever"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "billryan/resume",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36554772,
+                "language": "TeX",
+                "last_commit": "2024-03-15T08:48:48Z",
+                "owner": "billryan",
+                "repo": "resume",
+                "stars": 11357
+              }
+            }
+          ],
+          "description": "An elegant \\LaTeX\\ résumé template",
+          "node_type": "group",
+          "title": "resume"
+        }
+      ],
+      "title": "简历制作"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jwasham/coding-interview-university",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60493101,
+                "language": null,
+                "last_commit": "2025-08-28T14:42:47Z",
+                "owner": "jwasham",
+                "repo": "coding-interview-university",
+                "stars": 359617
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "简体中文",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60493101,
+                "language": null,
+                "last_commit": "2025-08-28T14:42:47Z",
+                "owner": "jwasham",
+                "repo": "coding-interview-university",
+                "stars": 359617
+              }
+            }
+          ],
+          "description": "A complete computer science study plan to become a software engineer.",
+          "node_type": "group",
+          "title": "coding-interview-university"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aylei/interview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168118422,
+                "language": null,
+                "last_commit": "2019-03-11T11:47:09Z",
+                "owner": "aylei",
+                "repo": "interview",
+                "stars": 2887
+              }
+            }
+          ],
+          "description": "写在19年初的后端社招面试经历🤑",
+          "node_type": "group",
+          "title": "interview"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yifeikong/reverse-interview-zh",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207837082,
+                "language": null,
+                "last_commit": "2024-03-04T15:39:50Z",
+                "owner": "perkfly",
+                "repo": "reverse-interview-zh",
+                "stars": 18515
+              }
+            }
+          ],
+          "description": "技术面试最后反问面试官的话",
+          "node_type": "group",
+          "title": "reverse-interview-zh"
+        }
+      ],
+      "title": "面试经验"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "huihut/CS-Books",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 86971730,
+                "language": null,
+                "last_commit": "2020-03-18T16:32:00Z",
+                "owner": "huihut",
+                "repo": "CS-Books",
+                "stars": 3325
+              }
+            }
+          ],
+          "description": "📚 Computer Science Books 计算机技术类书籍 PDF",
+          "node_type": "group",
+          "title": "CS-Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EbookFoundation/free-programming-books",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13491895,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:16:15Z",
+                "owner": "EbookFoundation",
+                "repo": "free-programming-books",
+                "stars": 395133
+              }
+            }
+          ],
+          "description": "📚 Freely available programming books https://ebookfoundation.github.io/free-programming-books/",
+          "node_type": "group",
+          "title": "free-programming-books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "exacity/deeplearningbook-chinese",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75830968,
+                "language": "TeX",
+                "last_commit": "2019-12-03T04:25:44Z",
+                "owner": "exacity",
+                "repo": "deeplearningbook-chinese",
+                "stars": 37360
+              }
+            }
+          ],
+          "description": "Deep Learning Book Chinese Translation https://exacity.github.io/deeplearningbook-chinese",
+          "node_type": "group",
+          "title": "deeplearningbook-chinese"
+        }
+      ],
+      "title": "书籍资源"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:33:45.626Z",
+    "last_updated": "2026-08-24T14:06:38.723Z",
     "original_repository": "Awesome-Interview/Awesome-Interview",
     "original_repository_id": 177998310,
     "original_repository_sha": "ba9afa03723298feea9c21531c89059f183804d4",
