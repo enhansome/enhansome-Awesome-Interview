@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-21T09:40:10Z",
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 185632
+                "stars": 185651
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2020-08-31T08:13:25Z",
                 "owner": "HIT-Alibaba",
                 "repo": "interview",
-                "stars": 5252
+                "stars": 5253
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-07T12:06:42Z",
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142138
+                "stars": 142161
               }
             }
           ],
@@ -83,7 +83,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84199
+                "stars": 84206
               }
             }
           ],
@@ -287,7 +287,7 @@
                 "last_commit": "2026-08-24T12:26:20Z",
                 "owner": "doocs",
                 "repo": "advanced-java",
-                "stars": 79080
+                "stars": 79085
               }
             }
           ],
@@ -309,7 +309,7 @@
                 "last_commit": "2025-10-22T09:39:06Z",
                 "owner": "0voice",
                 "repo": "interview_internal_reference",
-                "stars": 37239
+                "stars": 37241
               }
             }
           ],
@@ -337,7 +337,7 @@
                 "last_commit": "2024-03-16T19:34:06Z",
                 "owner": "helloqingfeng",
                 "repo": "Awsome-Front-End-learning-resource",
-                "stars": 10044
+                "stars": 10042
               }
             }
           ],
@@ -440,7 +440,7 @@
                 "last_commit": "2020-11-09T01:07:00Z",
                 "owner": "Advanced-Frontend",
                 "repo": "Daily-Interview-Question",
-                "stars": 27391
+                "stars": 27389
               }
             }
           ],
@@ -534,7 +534,7 @@
                 "last_commit": "2024-06-26T12:10:14Z",
                 "owner": "scutan90",
                 "repo": "DeepLearning-500-questions",
-                "stars": 57571
+                "stars": 57573
               }
             }
           ],
@@ -556,7 +556,7 @@
                 "last_commit": "2026-01-09T15:16:21Z",
                 "owner": "NLP-LOVE",
                 "repo": "ML-NLP",
-                "stars": 17798
+                "stars": 17799
               }
             }
           ],
@@ -644,7 +644,7 @@
                 "last_commit": "2026-04-22T20:35:48Z",
                 "owner": "datawhalechina",
                 "repo": "pumpkin-book",
-                "stars": 26000
+                "stars": 26001
               }
             }
           ],
@@ -826,7 +826,7 @@
                     "last_commit": "2025-03-05T09:14:51Z",
                     "owner": "taizilongxu",
                     "repo": "interview_python",
-                    "stars": 17369
+                    "stars": 17371
                   }
                 }
               ],
@@ -845,10 +845,10 @@
                     "archived": false,
                     "id": 63476337,
                     "language": "Python",
-                    "last_commit": "2026-08-21T18:46:06Z",
+                    "last_commit": "2026-08-25T14:09:01Z",
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 224006
+                    "stars": 224029
                   }
                 }
               ],
@@ -877,7 +877,7 @@
                     "last_commit": "2026-08-24T09:08:16Z",
                     "owner": "Snailclimb",
                     "repo": "JavaGuide",
-                    "stars": 158009
+                    "stars": 158032
                   }
                 }
               ],
@@ -906,7 +906,7 @@
                     "last_commit": "2025-08-24T07:01:54Z",
                     "owner": "huihut",
                     "repo": "interview",
-                    "stars": 38150
+                    "stars": 38151
                   }
                 }
               ],
@@ -983,7 +983,7 @@
                 "last_commit": "2023-02-26T17:05:49Z",
                 "owner": "julycoding",
                 "repo": "The-Art-Of-Programming-By-July-2nd",
-                "stars": 21499
+                "stars": 21498
               }
             }
           ],
@@ -1027,7 +1027,7 @@
                 "last_commit": "2023-10-20T08:12:51Z",
                 "owner": "apachecn",
                 "repo": "Interview",
-                "stars": 8958
+                "stars": 8959
               }
             }
           ],
@@ -1073,7 +1073,7 @@
                     "last_commit": "2026-06-12T13:49:06Z",
                     "owner": "MisterBooo",
                     "repo": "LeetCodeAnimation",
-                    "stars": 76699
+                    "stars": 76698
                   }
                 }
               ],
@@ -1095,7 +1095,7 @@
                     "last_commit": "2020-12-10T15:20:21Z",
                     "owner": "Blankj",
                     "repo": "awesome-java-leetcode",
-                    "stars": 8692
+                    "stars": 8691
                   }
                 }
               ],
@@ -1274,7 +1274,7 @@
                 "last_commit": "2024-08-14T10:20:23Z",
                 "owner": "geekcompany",
                 "repo": "ResumeSample",
-                "stars": 28254
+                "stars": 28255
               }
             }
           ],
@@ -1296,7 +1296,7 @@
                 "last_commit": "2024-06-11T19:09:25Z",
                 "owner": "salomonelli",
                 "repo": "best-resume-ever",
-                "stars": 16473
+                "stars": 16472
               }
             }
           ],
@@ -1318,7 +1318,7 @@
                 "last_commit": "2024-03-15T08:48:48Z",
                 "owner": "billryan",
                 "repo": "resume",
-                "stars": 11360
+                "stars": 11362
               }
             }
           ],
@@ -1346,7 +1346,7 @@
                 "last_commit": "2025-08-28T14:42:47Z",
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359677
+                "stars": 359718
               }
             },
             {
@@ -1361,7 +1361,7 @@
                 "last_commit": "2025-08-28T14:42:47Z",
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359677
+                "stars": 359718
               }
             }
           ],
@@ -1405,7 +1405,7 @@
                 "last_commit": "2024-03-04T15:39:50Z",
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18514
+                "stars": 18515
               }
             }
           ],
@@ -1455,7 +1455,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395172
+                "stars": 395221
               }
             }
           ],
@@ -1477,7 +1477,7 @@
                 "last_commit": "2019-12-03T04:25:44Z",
                 "owner": "exacity",
                 "repo": "deeplearningbook-chinese",
-                "stars": 37365
+                "stars": 37422
               }
             }
           ],
@@ -1490,7 +1490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:10.238Z",
+    "last_updated": "2026-08-25T22:39:02.789Z",
     "original_repository": "Awesome-Interview/Awesome-Interview",
     "original_repository_id": 177998310,
     "original_repository_sha": "ba9afa03723298feea9c21531c89059f183804d4",
