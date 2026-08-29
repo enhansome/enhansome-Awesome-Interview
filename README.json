@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+                "homepage": "http://cyc2018.xyz",
                 "id": 121395510,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-21T09:40:10Z",
+                "open_issues": 196,
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 185691
+                "stars": 185697,
+                "topics": [
+                  "algorithm",
+                  "computer-science",
+                  "cpp",
+                  "interview",
+                  "java",
+                  "leetcode",
+                  "python",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -35,12 +49,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "笔试面试知识整理",
+                "homepage": "https://hit-alibaba.github.io/interview/index.html",
                 "id": 30110748,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-08-31T08:13:25Z",
+                "open_issues": 6,
                 "owner": "HIT-Alibaba",
                 "repo": "interview",
-                "stars": 5253
+                "stars": 5253,
+                "topics": [
+                  "interview",
+                  "interview-preparation"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -58,12 +80,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated coding interview preparation materials for busy software engineers",
+                "homepage": "https://www.techinterviewhandbook.org",
                 "id": 62607227,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T12:06:42Z",
+                "open_issues": 35,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 142243
+                "stars": 142270,
+                "topics": [
+                  "algorithm",
+                  "algorithm-interview",
+                  "algorithm-interview-questions",
+                  "algorithms",
+                  "behavioral-interviews",
+                  "coding-interviews",
+                  "interview-practice",
+                  "interview-preparation",
+                  "interview-questions",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -81,12 +119,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+                "homepage": "https://doppler.com",
                 "id": 47018239,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-29T14:21:23Z",
+                "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84232
+                "stars": 84241,
+                "topics": [
+                  "android-interview-questions",
+                  "angularjs-interview-questions",
+                  "awesome",
+                  "awesome-list",
+                  "awesomeness",
+                  "interview-practice",
+                  "interview-questions",
+                  "interviewing",
+                  "javascript",
+                  "javascript-interview-questions",
+                  "list",
+                  "python-interview-questions",
+                  "rails-interview",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -104,12 +162,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.",
+                "homepage": "https://yuchengkai.cn/docs/frontend/",
                 "id": 125791597,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-03T00:47:59Z",
+                "open_issues": 42,
                 "owner": "InterviewMap",
                 "repo": "CS-Interview-Knowledge-Map",
-                "stars": 18255
+                "stars": 18254,
+                "topics": [
+                  "algorithms",
+                  "blog",
+                  "interview",
+                  "javascript",
+                  "react",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -127,12 +197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-stack web development notes",
+                "homepage": null,
                 "id": 75187094,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-07-14T15:19:49Z",
+                "open_issues": 17,
                 "owner": "8483",
                 "repo": "notes",
-                "stars": 3387
+                "stars": 3387,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -150,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "学习笔记整理📚",
+                "homepage": null,
                 "id": 122694826,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-06-07T13:44:53Z",
+                "open_issues": 7,
                 "owner": "arkingc",
                 "repo": "note",
-                "stars": 2128
+                "stars": 2128,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -173,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐼 准备秋招，欢迎来树上取果实",
+                "homepage": null,
                 "id": 95624763,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-03-03T17:34:50Z",
+                "open_issues": 7,
                 "owner": "linw7",
                 "repo": "Skill-Tree",
-                "stars": 3708
+                "stars": 3708,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -196,12 +281,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
+                "homepage": "https://ng-tech.icu/books/Awesome-Interviews",
                 "id": 202320983,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-06T12:26:09Z",
+                "open_issues": 1,
                 "owner": "wx-chevalier",
                 "repo": "Awesome-RoadMaps-and-Interviews",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -225,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "后端架构师技术图谱",
+                "homepage": null,
                 "id": 128398636,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-11T11:32:12Z",
+                "open_issues": 63,
                 "owner": "xingshaocheng",
                 "repo": "architect-awesome",
-                "stars": 60843
+                "stars": 60845,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -248,12 +346,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":fire:interview handbook",
+                "homepage": "http://taoran92.github.io",
                 "id": 61171892,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-26T03:47:31Z",
+                "open_issues": 0,
                 "owner": "taoran92",
                 "repo": "EasyJob",
-                "stars": 2264
+                "stars": 2263,
+                "topics": [
+                  "interview",
+                  "interview-preparation",
+                  "java",
+                  "offer"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -271,12 +379,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 ",
+                "homepage": "http://www.ityouknow.com/spring-boot.html",
                 "id": 72907253,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-11-18T16:32:16Z",
+                "open_issues": 17,
                 "owner": "ityouknow",
                 "repo": "spring-boot-examples",
-                "stars": 30503
+                "stars": 30503,
+                "topics": [
+                  "docker",
+                  "docker-composer",
+                  "fastdfs",
+                  "java",
+                  "mongodb",
+                  "mybatis",
+                  "rabbitmq",
+                  "scheduler",
+                  "spring",
+                  "spring-boot",
+                  "spring-boot-examples",
+                  "spring-boot-mail",
+                  "spring-boot-mongodb",
+                  "spring-boot-upload-file",
+                  "spring-cloud",
+                  "spring-data-jpa",
+                  "springboot",
+                  "springboot-shiro",
+                  "springcloud",
+                  "thymeleaf"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -294,12 +428,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+                "homepage": "https://java.doocs.org",
                 "id": 151834062,
                 "language": "Java",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-24T12:26:20Z",
+                "open_issues": 0,
                 "owner": "doocs",
                 "repo": "advanced-java",
-                "stars": 79086
+                "stars": 79088,
+                "topics": [
+                  "advanced-java",
+                  "distributed-search-engine",
+                  "distributed-systems",
+                  "doocs",
+                  "dubbo",
+                  "elasticsearch",
+                  "eureka",
+                  "feign",
+                  "high-availability",
+                  "high-concurrency",
+                  "hystrix",
+                  "java",
+                  "message-queue",
+                  "microservices-architecture",
+                  "redis",
+                  "ribbon",
+                  "rpc",
+                  "spring-cloud",
+                  "springcloud-config",
+                  "zookeeper"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -317,12 +477,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+                "homepage": null,
                 "id": 191113739,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-22T09:39:06Z",
+                "open_issues": 35,
                 "owner": "0voice",
                 "repo": "interview_internal_reference",
-                "stars": 37245
+                "stars": 37244,
+                "topics": [
+                  "cpu",
+                  "high-performance",
+                  "interview",
+                  "mongodb",
+                  "mysql",
+                  "network",
+                  "nginx",
+                  "redis",
+                  "storage",
+                  "zookeeper"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -346,12 +522,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）",
+                "homepage": "https://helloqingfeng.github.io/front-end-index/index.html",
                 "id": 66709063,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-03-16T19:34:06Z",
+                "open_issues": 13,
                 "owner": "helloqingfeng",
                 "repo": "Awsome-Front-End-learning-resource",
-                "stars": 10045
+                "stars": 10045,
+                "topics": [
+                  "book",
+                  "frontend",
+                  "interview",
+                  "javascript",
+                  "resume"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -369,12 +556,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "前端开发面试题大收集，前端面试集锦 :heart: :gift_heart: :cupid:",
+                "homepage": "https://fe.padding.me",
                 "id": 24668606,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-04-23T09:16:59Z",
+                "open_issues": 16,
                 "owner": "paddingme",
                 "repo": "Front-end-Web-Development-Interview-Question",
-                "stars": 6842
+                "stars": 6841,
+                "topics": [
+                  "front-end-interview",
+                  "interview",
+                  "interview-preparation",
+                  "interview-questions"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -392,12 +589,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Front End interview preparation materials for busy engineers (updated for 2026)",
+                "homepage": "https://frontendinterviewhandbook.com",
                 "id": 117372806,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T08:25:31Z",
+                "open_issues": 11,
                 "owner": "yangshun",
                 "repo": "front-end-interview-handbook",
-                "stars": 43997
+                "stars": 44001,
+                "topics": [
+                  "css",
+                  "css-questions",
+                  "front-end",
+                  "front-end-development",
+                  "front-end-interview",
+                  "front-end-system-design",
+                  "html",
+                  "html-questions",
+                  "interview",
+                  "interview-preparation",
+                  "interview-questions",
+                  "interview-test",
+                  "javascript",
+                  "js-questions",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             },
@@ -408,12 +626,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Front End interview preparation materials for busy engineers (updated for 2026)",
+                "homepage": "https://frontendinterviewhandbook.com",
                 "id": 117372806,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T08:25:31Z",
+                "open_issues": 11,
                 "owner": "yangshun",
                 "repo": "front-end-interview-handbook",
-                "stars": 43997
+                "stars": 44001,
+                "topics": [
+                  "css",
+                  "css-questions",
+                  "front-end",
+                  "front-end-development",
+                  "front-end-interview",
+                  "front-end-system-design",
+                  "html",
+                  "html-questions",
+                  "interview",
+                  "interview-preparation",
+                  "interview-questions",
+                  "interview-test",
+                  "javascript",
+                  "js-questions",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -431,12 +670,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to pass the Node.js interview of ElemeFE.",
+                "homepage": "https://elemefe.github.io/node-interview/",
                 "id": 79780572,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-10-19T03:29:22Z",
+                "open_issues": 8,
                 "owner": "ElemeFE",
                 "repo": "node-interview",
-                "stars": 10472
+                "stars": 10473,
+                "topics": [
+                  "interview",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -454,12 +701,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+                "homepage": "https://muyiy.cn/question/",
                 "id": 166535974,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-11-09T01:07:00Z",
+                "open_issues": 266,
                 "owner": "Advanced-Frontend",
                 "repo": "Daily-Interview-Question",
-                "stars": 27388
+                "stars": 27387,
+                "topics": [
+                  "css",
+                  "interview",
+                  "javascript",
+                  "react",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -477,12 +735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。",
+                "homepage": "http://es6.ruanyifeng.com/",
                 "id": 18964487,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-07T16:26:21Z",
+                "open_issues": 0,
                 "owner": "ruanyf",
                 "repo": "es6tutorial",
-                "stars": 21433
+                "stars": 21432,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -500,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":thumbsup: Vue.js 源码分析",
+                "homepage": "https://ustbhuangyi.github.io/vue-analysis/",
                 "id": 101625394,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-18T03:12:29Z",
+                "open_issues": 67,
                 "owner": "ustbhuangyi",
                 "repo": "vue-analysis",
-                "stars": 7659
+                "stars": 7658,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -529,12 +797,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning Interview 深度学习面试题目汇总",
+                "homepage": null,
                 "id": 126849151,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-05-03T03:02:13Z",
+                "open_issues": 3,
                 "owner": "ShanghaiTechAIClub",
                 "repo": "DLInterview",
-                "stars": 1110
+                "stars": 1110,
+                "topics": [
+                  "algorithms",
+                  "deep-learning",
+                  "interview-questions",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -552,12 +830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06",
+                "homepage": "https://github.com/scutan90/DeepLearning-500-questions",
                 "id": 138839979,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-26T12:10:14Z",
+                "open_issues": 120,
                 "owner": "scutan90",
                 "repo": "DeepLearning-500-questions",
-                "stars": 57576
+                "stars": 57582,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -575,12 +858,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。",
+                "homepage": "http://era.dx3906.info",
                 "id": 195408640,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-01-09T15:16:21Z",
+                "open_issues": 36,
                 "owner": "NLP-LOVE",
                 "repo": "ML-NLP",
-                "stars": 17797
+                "stars": 17798,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -598,12 +890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "深度学习面试问题 回答对应的DeepLearning中文版页码",
+                "homepage": null,
                 "id": 109283854,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-11-02T15:50:10Z",
+                "open_issues": 0,
                 "owner": "elviswf",
                 "repo": "DeepLearningBookQA_cn",
-                "stars": 875
+                "stars": 875,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -621,12 +918,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "记录cv算法工程师的成长之路，分享计算机视觉和模型压缩部署技术栈笔记。https://harleyszhang.github.io/cv_note/",
+                "homepage": null,
                 "id": 177110043,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-10T10:31:11Z",
+                "open_issues": 0,
                 "owner": "harleyszhang",
                 "repo": "cv_note",
-                "stars": 2638
+                "stars": 2638,
+                "topics": [
+                  "computer-vision",
+                  "cpp11",
+                  "deep-learning",
+                  "interview-questions",
+                  "machine-learning-algorithms",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -644,12 +953,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "邱锡鹏蒲公英书系列总入口",
+                "homepage": "https://nndl.github.io",
                 "id": 1248337609,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-06-25T03:17:48Z",
+                "open_issues": 0,
                 "owner": "nndl",
                 "repo": "nndl.github.io",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "chinese",
+                  "jekyll",
+                  "textbook"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -667,12 +985,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "南瓜书：《机器学习》（西瓜书）公式详解",
+                "homepage": null,
                 "id": 162783195,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-22T20:35:48Z",
+                "open_issues": 9,
                 "owner": "datawhalechina",
                 "repo": "pumpkin-book",
-                "stars": 26008
+                "stars": 26009,
+                "topics": [
+                  "book",
+                  "machine-learning",
+                  "pumpkin-book"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -690,12 +1017,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "自然语言处理、知识图谱、对话系统，大模型等技术研究与应用。",
+                "homepage": null,
                 "id": 168149502,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-02-08T11:30:03Z",
+                "open_issues": 1,
                 "owner": "lihanghang",
                 "repo": "NLP-Knowledge-Graph",
-                "stars": 1764
+                "stars": 1764,
+                "topics": [
+                  "agent",
+                  "agentic-ai",
+                  "bert",
+                  "deep-learning",
+                  "ernie",
+                  "event-driven",
+                  "kbqa",
+                  "knowledge-graph",
+                  "llm",
+                  "machine-learning",
+                  "ner",
+                  "nlp",
+                  "reflection",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -721,12 +1068,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java 笔试、面试 知识整理",
+                    "homepage": "https://hadyang.github.io/interview/",
                     "id": 66618435,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2022-07-17T08:22:31Z",
+                    "open_issues": 4,
                     "owner": "hadyang",
                     "repo": "interview",
-                    "stars": 4847
+                    "stars": 4846,
+                    "topics": [
+                      "android",
+                      "gitbook",
+                      "java",
+                      "pdf"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -744,12 +1101,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "整理的常见的问题   http://chenfuduo.cn",
+                    "homepage": null,
                     "id": 39747886,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2016-10-23T11:48:05Z",
+                    "open_issues": 0,
                     "owner": "leerduo",
                     "repo": "InterviewQuestion",
-                    "stars": 731
+                    "stars": 731,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -767,12 +1129,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "gitbook地址",
+                    "homepage": "https://lrh1993.gitbooks.io/android_interview_guide/content/",
                     "id": 98419904,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2021-02-06T06:07:09Z",
+                    "open_issues": 34,
                     "owner": "LRH1993",
                     "repo": "android_interview",
-                    "stars": 2948
+                    "stars": 2948,
+                    "topics": [
+                      "android",
+                      "interview",
+                      "on-campus-recruitment"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -790,12 +1161,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Your Cheat Sheet For Android Interview - Android Interview Questions and Answers",
+                    "homepage": "https://outcomeschool.com/program/android",
                     "id": 96704265,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-21T09:31:59Z",
+                    "open_issues": 14,
                     "owner": "amitshekhariitbhu",
                     "repo": "android-interview-questions",
-                    "stars": 12367
+                    "stars": 12365,
+                    "topics": [
+                      "android",
+                      "android-interview",
+                      "android-interview-practice",
+                      "android-interview-question",
+                      "android-interview-questions",
+                      "android-interviews",
+                      "answers",
+                      "cheat-sheets",
+                      "cheatsheet",
+                      "interview-practice",
+                      "interview-prep",
+                      "interview-questions",
+                      "kotlin",
+                      "kotlin-android",
+                      "kotlin-coroutines",
+                      "questions",
+                      "questions-and-answers"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -820,12 +1214,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。",
+                    "homepage": null,
                     "id": 124481973,
                     "language": "Objective-C",
+                    "license": "MIT",
                     "last_commit": "2021-06-09T12:01:29Z",
+                    "open_issues": 15,
                     "owner": "liberalisman",
                     "repo": "iOS-InterviewQuestion-collection",
-                    "stars": 3236
+                    "stars": 3236,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -856,12 +1255,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "关于Python的面试题",
+                    "homepage": null,
                     "id": 33428461,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2025-03-05T09:14:51Z",
+                    "open_issues": 34,
                     "owner": "taizilongxu",
                     "repo": "interview_python",
-                    "stars": 17373
+                    "stars": 17373,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -879,12 +1283,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "All Algorithms implemented in Python",
+                    "homepage": "https://thealgorithms.github.io/Python/",
                     "id": 63476337,
                     "language": "Python",
-                    "last_commit": "2026-08-27T22:39:50Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:17:23Z",
+                    "open_issues": 1063,
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 224068
+                    "stars": 224083,
+                    "topics": [
+                      "algorithm",
+                      "algorithm-competitions",
+                      "algorithms-implemented",
+                      "algos",
+                      "community-driven",
+                      "education",
+                      "hacktoberfest",
+                      "interview",
+                      "learn",
+                      "practice",
+                      "python",
+                      "searches",
+                      "sorting-algorithms",
+                      "sorts"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -909,12 +1333,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+                    "homepage": "https://javaguide.cn",
                     "id": 132464395,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T04:39:15Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T08:06:36Z",
+                    "open_issues": 17,
                     "owner": "Snailclimb",
                     "repo": "JavaGuide",
-                    "stars": 158081
+                    "stars": 158104,
+                    "topics": [
+                      "agent",
+                      "ai",
+                      "context-engineering",
+                      "deepseek",
+                      "interview",
+                      "java",
+                      "mcp",
+                      "mysql",
+                      "redis",
+                      "redisson",
+                      "skills",
+                      "springai",
+                      "system-design"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -939,12 +1382,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",
+                    "homepage": "https://interview.huihut.com",
                     "id": 120887835,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-24T07:01:54Z",
+                    "open_issues": 2,
                     "owner": "huihut",
                     "repo": "interview",
-                    "stars": 38154
+                    "stars": 38157,
+                    "topics": [
+                      "algorithm",
+                      "c",
+                      "cpp",
+                      "data-structures",
+                      "database",
+                      "interview",
+                      "interview-practice",
+                      "interview-preparation",
+                      "interview-questions",
+                      "interviews",
+                      "leetcode",
+                      "operating-system",
+                      "stl"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -962,12 +1424,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "2021年最新总结，值得推荐的c/c++开源框架与库。持续更新中。",
+                    "homepage": null,
                     "id": 191890050,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-05-20T12:17:58Z",
+                    "open_issues": 1,
                     "owner": "0voice",
                     "repo": "developkit_set",
-                    "stars": 999
+                    "stars": 999,
+                    "topics": [
+                      "boost",
+                      "cpp",
+                      "libevent",
+                      "mongodb",
+                      "nginx",
+                      "ntyco",
+                      "openmp"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -996,12 +1471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "剑指Offer——名企面试官精讲典型编程题",
+                "homepage": null,
                 "id": 55763831,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-20T15:09:56Z",
+                "open_issues": 13,
                 "owner": "gatieme",
                 "repo": "CodingInterviews",
-                "stars": 4856
+                "stars": 4856,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1019,12 +1499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+                "homepage": null,
                 "id": 15183485,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-02-26T17:05:49Z",
+                "open_issues": 64,
                 "owner": "julycoding",
                 "repo": "The-Art-Of-Programming-By-July-2nd",
-                "stars": 21499
+                "stars": 21499,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1042,12 +1527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "面试题",
+                "homepage": null,
                 "id": 115782352,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-10-28T02:03:31Z",
+                "open_issues": 13,
                 "owner": "leeguandong",
                 "repo": "Interview-code-practice-python",
-                "stars": 1575
+                "stars": 1575,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1065,12 +1555,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interview = 简历指南 + 算法题 + 八股文 + 源码分析",
+                "homepage": "https://interview.apachecn.org",
                 "id": 106807883,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-20T08:12:51Z",
+                "open_issues": 0,
                 "owner": "apachecn",
                 "repo": "Interview",
-                "stars": 8961
+                "stars": 8962,
+                "topics": [
+                  "interview",
+                  "kaggle",
+                  "leetcode",
+                  "machine-learning",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1090,12 +1591,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LeetCode Problems' Solutions ",
+                    "homepage": null,
                     "id": 25449064,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2024-01-17T16:23:10Z",
+                    "open_issues": 54,
                     "owner": "haoel",
                     "repo": "leetcode",
-                    "stars": 18070
+                    "stars": 18069,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1113,12 +1619,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）",
+                    "homepage": "https://www.algomooc.com",
                     "id": 160640094,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2026-06-12T13:49:06Z",
+                    "open_issues": 22,
                     "owner": "MisterBooo",
                     "repo": "LeetCodeAnimation",
-                    "stars": 76699
+                    "stars": 76702,
+                    "topics": [
+                      "animation",
+                      "leetcode",
+                      "leetcode-c",
+                      "leetcode-java",
+                      "leetcode-solutions"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1136,12 +1653,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":crown: LeetCode of algorithms with java solution(updating).",
+                    "homepage": null,
                     "id": 88524149,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2020-12-10T15:20:21Z",
+                    "open_issues": 13,
                     "owner": "Blankj",
                     "repo": "awesome-java-leetcode",
-                    "stars": 8691
+                    "stars": 8691,
+                    "topics": [
+                      "algorithm",
+                      "algorithms",
+                      "datastructure",
+                      "datastructures",
+                      "facebook",
+                      "leetcode",
+                      "leetcode-java",
+                      "leetcode-solutions"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1159,12 +1690,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":pencil2: LeetCode solutions with JavaScript",
+                    "homepage": null,
                     "id": 40422990,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-01-14T02:46:56Z",
+                    "open_issues": 3,
                     "owner": "lessfish",
                     "repo": "leetcode",
-                    "stars": 1540
+                    "stars": 1540,
+                    "topics": [
+                      "javascript",
+                      "leetcode",
+                      "leetcode-solutions"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1182,12 +1722,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Solutions to LeetCode by Swift",
+                    "homepage": null,
                     "id": 55123440,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2024-05-18T11:02:25Z",
+                    "open_issues": 35,
                     "owner": "soapyigu",
                     "repo": "LeetCode-Swift",
-                    "stars": 4962
+                    "stars": 4962,
+                    "topics": [
+                      "algorithm",
+                      "data-structures",
+                      "interview",
+                      "leetcode",
+                      "swift"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1205,12 +1756,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":pencil2: 算法相关知识储备 LeetCode with Python and JavaScript :books:",
+                    "homepage": null,
                     "id": 141866636,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-07-26T05:18:08Z",
+                    "open_issues": 2,
                     "owner": "HuberTRoy",
                     "repo": "leetCode",
-                    "stars": 1811
+                    "stars": 1811,
+                    "topics": [
+                      "algorithm",
+                      "algorithms",
+                      "alogrithms",
+                      "data-structures",
+                      "interview",
+                      "leetcode",
+                      "leetcode-javascript",
+                      "leetcode-python",
+                      "leetcode-solutions"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1235,12 +1801,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📝  C++11 Solutions of All 289 LintCode Problems (No More Updates)",
+                    "homepage": null,
                     "id": 30876709,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2020-10-03T17:49:56Z",
+                    "open_issues": 4,
                     "owner": "kamyu104",
                     "repo": "LintCode",
-                    "stars": 631
+                    "stars": 631,
+                    "topics": [
+                      "algorithm",
+                      "cpp",
+                      "cpp11",
+                      "data-structure",
+                      "interview-practice",
+                      "interview-preparation",
+                      "interview-questions",
+                      "lintcode"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1265,12 +1845,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My Java implementation of Kick Start - Google's Coding Competitions.",
+                    "homepage": null,
                     "id": 144704465,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2020-01-19T07:35:20Z",
+                    "open_issues": 0,
                     "owner": "amylmy",
                     "repo": "KickStart-GoogleCompetition",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "algorithm",
+                      "coding-contest",
+                      "google"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1288,12 +1877,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Kick Start",
+                    "homepage": "https://g.co/kickstart",
                     "id": 134320311,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-05-30T23:16:13Z",
+                    "open_issues": 0,
                     "owner": "Harmon758",
                     "repo": "Google-Kick-Start",
-                    "stars": 244
+                    "stars": 244,
+                    "topics": [
+                      "google-kick-start",
+                      "google-kickstart",
+                      "kick-start",
+                      "kickstart"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:42.497Z"
                 }
@@ -1322,12 +1921,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板",
+                "homepage": "http://cv.ftqq.com/?fr=github",
                 "id": 23783375,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-14T10:20:23Z",
+                "open_issues": 11,
                 "owner": "geekcompany",
                 "repo": "ResumeSample",
-                "stars": 28260
+                "stars": 28261,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1345,12 +1949,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.",
+                "homepage": "https://salomonelli.github.io/best-resume-ever",
                 "id": 80472665,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2024-06-11T19:09:25Z",
+                "open_issues": 57,
                 "owner": "salomonelli",
                 "repo": "best-resume-ever",
-                "stars": 16469
+                "stars": 16471,
+                "topics": [
+                  "cv",
+                  "javascript",
+                  "nodejs",
+                  "pdf",
+                  "resume",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1368,12 +1984,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
+                "homepage": null,
                 "id": 36554772,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2024-03-15T08:48:48Z",
+                "open_issues": 49,
                 "owner": "billryan",
                 "repo": "resume",
-                "stars": 11365
+                "stars": 11370,
+                "topics": [
+                  "latex",
+                  "resume"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1397,12 +2021,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete computer science study plan to become a software engineer.",
+                "homepage": null,
                 "id": 60493101,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-08-28T14:42:47Z",
+                "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359872
+                "stars": 359920,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "coding-interview",
+                  "coding-interviews",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-prep",
+                  "interview-preparation",
+                  "programming-interviews",
+                  "software-engineering",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             },
@@ -1413,12 +2055,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete computer science study plan to become a software engineer.",
+                "homepage": null,
                 "id": 60493101,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-08-28T14:42:47Z",
+                "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359872
+                "stars": 359920,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "coding-interview",
+                  "coding-interviews",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-prep",
+                  "interview-preparation",
+                  "programming-interviews",
+                  "software-engineering",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1436,12 +2096,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "写在19年初的后端社招面试经历🤑",
+                "homepage": "https://aleiwu.com/post/interview-experience/",
                 "id": 168118422,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2019-03-11T11:47:09Z",
+                "open_issues": 1,
                 "owner": "aylei",
                 "repo": "interview",
-                "stars": 2887
+                "stars": 2887,
+                "topics": [
+                  "antfinancial",
+                  "bytedance",
+                  "interview",
+                  "interview-questions",
+                  "pingcap"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1459,12 +2130,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "技术面试最后反问面试官的话",
+                "homepage": null,
                 "id": 207837082,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-04T15:39:50Z",
+                "open_issues": 15,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18516
+                "stars": 18517,
+                "topics": [
+                  "interview",
+                  "interview-questions",
+                  "reverse-interview"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1488,12 +2168,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📚 Computer Science Books 计算机技术类书籍 PDF",
+                "homepage": "https://github.com/huihut/CS-Books/tree/master",
                 "id": 86971730,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-03-18T16:32:00Z",
+                "open_issues": 4,
                 "owner": "huihut",
                 "repo": "CS-Books",
-                "stars": 3326
+                "stars": 3326,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "book",
+                  "books",
+                  "c",
+                  "computer",
+                  "computer-science",
+                  "cpp",
+                  "offer",
+                  "pdf",
+                  "programming"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1511,12 +2208,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Freely available programming books",
+                "homepage": "https://ebookfoundation.github.io/free-programming-books/",
                 "id": 13491895,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-18T14:16:15Z",
+                "open_issues": 92,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395389
+                "stars": 395482,
+                "topics": [
+                  "books",
+                  "education",
+                  "hacktoberfest",
+                  "list",
+                  "resource"
+                ]
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1534,12 +2242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning Book Chinese Translation",
+                "homepage": "https://exacity.github.io/deeplearningbook-chinese",
                 "id": 75830968,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2019-12-03T04:25:44Z",
+                "open_issues": 68,
                 "owner": "exacity",
                 "repo": "deeplearningbook-chinese",
-                "stars": 37519
+                "stars": 37522,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
             }
@@ -1553,15 +2266,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:04:42.497Z",
+    "last_updated": "2026-08-29T03:40:46.122Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of awesome interview references.",
+      "homepage": "https://awesome-interview.github.io/Awesome-Interview/",
       "id": 177998310,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2020-09-25T05:04:23Z",
+      "open_issues": 2,
       "owner": "Awesome-Interview",
       "repo": "Awesome-Interview",
-      "stars": 1840
+      "stars": 1840,
+      "topics": [
+        "android",
+        "backend",
+        "cpp",
+        "deep-learning",
+        "frontend",
+        "interview",
+        "interview-practice",
+        "interview-prep",
+        "interview-preparation",
+        "interviews",
+        "ios",
+        "java",
+        "machine-learning",
+        "python"
+      ]
     },
     "original_repository_sha": "ba9afa03723298feea9c21531c89059f183804d4",
     "enhanced_repository": "enhansome/enhansome-Awesome-Interview",
