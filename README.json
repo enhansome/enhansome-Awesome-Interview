@@ -128,7 +128,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84241,
+                "stars": 84242,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -744,7 +744,7 @@
                 "open_issues": 0,
                 "owner": "ruanyf",
                 "repo": "es6tutorial",
-                "stars": 21432,
+                "stars": 21431,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
@@ -839,7 +839,7 @@
                 "open_issues": 120,
                 "owner": "scutan90",
                 "repo": "DeepLearning-500-questions",
-                "stars": 57582,
+                "stars": 57584,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
@@ -2030,7 +2030,7 @@
                 "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359920,
+                "stars": 359923,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -2064,7 +2064,7 @@
                 "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359920,
+                "stars": 359923,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -2217,7 +2217,7 @@
                 "open_issues": 92,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395482,
+                "stars": 395483,
                 "topics": [
                   "books",
                   "education",
@@ -2266,7 +2266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:40:46.122Z",
+    "last_updated": "2026-08-29T04:29:15.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome interview references.",
