@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "CyC2018/CS-Notes",
-              "description": null,
+              "description": "CyC2018/CS-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 197,
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 186370,
+                "stars": 186369,
                 "topics": [
                   "algorithm",
                   "computer-science",
@@ -45,7 +45,7 @@
             {
               "node_type": "item",
               "title": "HIT-Alibaba/interview",
-              "description": null,
+              "description": "HIT-Alibaba/interview",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -76,7 +76,7 @@
             {
               "node_type": "item",
               "title": "yangshun/tech-interview-handbook",
-              "description": null,
+              "description": "yangshun/tech-interview-handbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -89,7 +89,7 @@
                 "open_issues": 37,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 143097,
+                "stars": 143099,
                 "topics": [
                   "algorithm",
                   "algorithm-interview",
@@ -115,7 +115,7 @@
             {
               "node_type": "item",
               "title": "MaximAbramchuck/awesome-interview-questions",
-              "description": null,
+              "description": "DopplerHQ/awesome-interview-questions",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -128,7 +128,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84767,
+                "stars": 84771,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -158,7 +158,7 @@
             {
               "node_type": "item",
               "title": "InterviewMap/CS-Interview-Knowledge-Map",
-              "description": null,
+              "description": "InterviewMap/CS-Interview-Knowledge-Map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -193,7 +193,7 @@
             {
               "node_type": "item",
               "title": "8483/notes",
-              "description": null,
+              "description": "8483/notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "arkingc/note",
-              "description": null,
+              "description": "arkingc/note",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -249,7 +249,7 @@
             {
               "node_type": "item",
               "title": "linw7/Skill-Tree",
-              "description": null,
+              "description": "linw7/Skill-Tree",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -277,7 +277,7 @@
             {
               "node_type": "item",
               "title": "wx-chevalie/Awesome-Interviews",
-              "description": null,
+              "description": "wx-chevalier/Awesome-RoadMaps-and-Interviews",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -314,7 +314,7 @@
             {
               "node_type": "item",
               "title": "xingshaocheng/architect-awesome",
-              "description": null,
+              "description": "xingshaocheng/architect-awesome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -342,7 +342,7 @@
             {
               "node_type": "item",
               "title": "Lemonjing/EasyJob",
-              "description": null,
+              "description": "taoran92/EasyJob",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -375,7 +375,7 @@
             {
               "node_type": "item",
               "title": "ityouknow/spring-boot-examples",
-              "description": null,
+              "description": "ityouknow/spring-boot-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -424,7 +424,7 @@
             {
               "node_type": "item",
               "title": "doocs/advanced-java",
-              "description": null,
+              "description": "doocs/advanced-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -473,7 +473,7 @@
             {
               "node_type": "item",
               "title": "0voice/interview_internal_reference",
-              "description": null,
+              "description": "0voice/interview_internal_reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -518,7 +518,7 @@
             {
               "node_type": "item",
               "title": "helloqingfeng/Awsome-Front-End-learning-resource",
-              "description": null,
+              "description": "helloqingfeng/Awsome-Front-End-learning-resource",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -552,7 +552,7 @@
             {
               "node_type": "item",
               "title": "paddingme/Front-end-Web-Development-Interview-Question",
-              "description": null,
+              "description": "paddingme/Front-end-Web-Development-Interview-Question",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "yangshun/front-end-interview-handbook",
-              "description": null,
+              "description": "yangshun/front-end-interview-handbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -622,7 +622,7 @@
             {
               "node_type": "item",
               "title": "中文版本",
-              "description": null,
+              "description": "yangshun/front-end-interview-handbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -666,7 +666,7 @@
             {
               "node_type": "item",
               "title": "ElemeFE/node-interview",
-              "description": null,
+              "description": "ElemeFE/node-interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -697,7 +697,7 @@
             {
               "node_type": "item",
               "title": "Advanced-Frontend/Daily-Interview-Question",
-              "description": null,
+              "description": "Advanced-Frontend/Daily-Interview-Question",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -731,7 +731,7 @@
             {
               "node_type": "item",
               "title": "ruanyf/es6tutorial",
-              "description": null,
+              "description": "ruanyf/es6tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -759,7 +759,7 @@
             {
               "node_type": "item",
               "title": "ustbhuangyi/vue-analysis",
-              "description": null,
+              "description": "ustbhuangyi/vue-analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -793,7 +793,7 @@
             {
               "node_type": "item",
               "title": "ShanghaiTechAIClub/DLInterview",
-              "description": null,
+              "description": "ShanghaiTechAIClub/DLInterview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "scutan90/DeepLearning-500-questions",
-              "description": null,
+              "description": "scutan90/DeepLearning-500-questions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -854,7 +854,7 @@
             {
               "node_type": "item",
               "title": "NLP-LOVE/ML-NLP",
-              "description": null,
+              "description": "NLP-LOVE/ML-NLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -886,7 +886,7 @@
             {
               "node_type": "item",
               "title": "elviswf/DeepLearningBookQA_cn",
-              "description": null,
+              "description": "elviswf/DeepLearningBookQA_cn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -914,7 +914,7 @@
             {
               "node_type": "item",
               "title": "HarleysZhang/2019_algorithm_intern_information",
-              "description": null,
+              "description": "harleyszhang/cv_note",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -949,7 +949,7 @@
             {
               "node_type": "item",
               "title": "nndl/nndl.github.io",
-              "description": null,
+              "description": "nndl/nndl.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -981,7 +981,7 @@
             {
               "node_type": "item",
               "title": "datawhalechina/pumpkin-book",
-              "description": null,
+              "description": "datawhalechina/pumpkin-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1013,7 +1013,7 @@
             {
               "node_type": "item",
               "title": "lihanghang/Knowledge-Graph",
-              "description": null,
+              "description": "lihanghang/NLP-Knowledge-Graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1064,7 +1064,7 @@
                 {
                   "node_type": "item",
                   "title": "hadyang/interview",
-                  "description": null,
+                  "description": "hadyang/interview",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1097,7 +1097,7 @@
                 {
                   "node_type": "item",
                   "title": "leerduo/InterviewQuestion",
-                  "description": null,
+                  "description": "leerduo/InterviewQuestion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1125,7 +1125,7 @@
                 {
                   "node_type": "item",
                   "title": "LRH1993/android_interview",
-                  "description": null,
+                  "description": "LRH1993/android_interview",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1157,7 +1157,7 @@
                 {
                   "node_type": "item",
                   "title": "MindorksOpenSource/android-interview-questions",
-                  "description": null,
+                  "description": "amitshekhariitbhu/android-interview-questions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1210,7 +1210,7 @@
                 {
                   "node_type": "item",
                   "title": "liberalisman/iOS-InterviewQuestion-collection",
-                  "description": null,
+                  "description": "liberalisman/iOS-InterviewQuestion-collection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1251,7 +1251,7 @@
                 {
                   "node_type": "item",
                   "title": "taizilongxu/interview_python",
-                  "description": null,
+                  "description": "taizilongxu/interview_python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1279,7 +1279,7 @@
                 {
                   "node_type": "item",
                   "title": "TheAlgorithms/Python",
-                  "description": null,
+                  "description": "TheAlgorithms/Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1292,7 +1292,7 @@
                     "open_issues": 7,
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 225212,
+                    "stars": 225216,
                     "topics": [
                       "algorithm",
                       "algorithm-competitions",
@@ -1329,7 +1329,7 @@
                 {
                   "node_type": "item",
                   "title": "Snailclimb/JavaGuide",
-                  "description": null,
+                  "description": "Snailclimb/JavaGuide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1342,7 +1342,7 @@
                     "open_issues": 19,
                     "owner": "Snailclimb",
                     "repo": "JavaGuide",
-                    "stars": 159005,
+                    "stars": 159007,
                     "topics": [
                       "agent",
                       "ai",
@@ -1378,7 +1378,7 @@
                 {
                   "node_type": "item",
                   "title": "huihut/interview",
-                  "description": null,
+                  "description": "huihut/interview",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1391,7 +1391,7 @@
                     "open_issues": 1,
                     "owner": "huihut",
                     "repo": "interview",
-                    "stars": 38236,
+                    "stars": 38237,
                     "topics": [
                       "algorithm",
                       "c",
@@ -1420,7 +1420,7 @@
                 {
                   "node_type": "item",
                   "title": "0voice/developkit_set",
-                  "description": null,
+                  "description": "0voice/developkit_set",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1467,7 +1467,7 @@
             {
               "node_type": "item",
               "title": "gatieme/CodingInterviews",
-              "description": null,
+              "description": "gatieme/CodingInterviews",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1495,7 +1495,7 @@
             {
               "node_type": "item",
               "title": "julycoding/The-Art-Of-Programming-By-July",
-              "description": null,
+              "description": "julycoding/The-Art-Of-Programming-By-July-2nd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1523,7 +1523,7 @@
             {
               "node_type": "item",
               "title": "leeguandong/Interview-code-practice-python",
-              "description": null,
+              "description": "leeguandong/Interview-code-practice-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1551,7 +1551,7 @@
             {
               "node_type": "item",
               "title": "apachecn/Interview",
-              "description": null,
+              "description": "apachecn/Interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1587,7 +1587,7 @@
                 {
                   "node_type": "item",
                   "title": "haoel/leetcode",
-                  "description": null,
+                  "description": "haoel/leetcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1615,7 +1615,7 @@
                 {
                   "node_type": "item",
                   "title": "MisterBooo/LeetCodeAnimation",
-                  "description": null,
+                  "description": "MisterBooo/LeetCodeAnimation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1628,7 +1628,7 @@
                     "open_issues": 23,
                     "owner": "MisterBooo",
                     "repo": "LeetCodeAnimation",
-                    "stars": 76713,
+                    "stars": 76714,
                     "topics": [
                       "animation",
                       "leetcode",
@@ -1649,7 +1649,7 @@
                 {
                   "node_type": "item",
                   "title": "Blankj/awesome-java-leetcode",
-                  "description": null,
+                  "description": "Blankj/awesome-java-leetcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1686,7 +1686,7 @@
                 {
                   "node_type": "item",
                   "title": "lessfish/leetcode",
-                  "description": null,
+                  "description": "lessfish/leetcode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1718,7 +1718,7 @@
                 {
                   "node_type": "item",
                   "title": "soapyigu/LeetCode-Swift",
-                  "description": null,
+                  "description": "soapyigu/LeetCode-Swift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1752,7 +1752,7 @@
                 {
                   "node_type": "item",
                   "title": "HuberTRoy/leetCode",
-                  "description": null,
+                  "description": "HuberTRoy/leetCode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1797,7 +1797,7 @@
                 {
                   "node_type": "item",
                   "title": "kamyu104/LintCode",
-                  "description": null,
+                  "description": "kamyu104/LintCode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1841,7 +1841,7 @@
                 {
                   "node_type": "item",
                   "title": "amylmy/KickStart-GoogleCompetition",
-                  "description": null,
+                  "description": "amylmy/KickStart-GoogleCompetition",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1873,7 +1873,7 @@
                 {
                   "node_type": "item",
                   "title": "Harmon758/Google-Kick-Start",
-                  "description": null,
+                  "description": "Harmon758/Google-Kick-Start",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1917,7 +1917,7 @@
             {
               "node_type": "item",
               "title": "geekcompany/ResumeSample",
-              "description": null,
+              "description": "geekcompany/ResumeSample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1945,7 +1945,7 @@
             {
               "node_type": "item",
               "title": "salomonelli/best-resume-ever",
-              "description": null,
+              "description": "salomonelli/best-resume-ever",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1980,7 +1980,7 @@
             {
               "node_type": "item",
               "title": "billryan/resume",
-              "description": null,
+              "description": "billryan/resume",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1993,7 +1993,7 @@
                 "open_issues": 49,
                 "owner": "billryan",
                 "repo": "resume",
-                "stars": 11464,
+                "stars": 11465,
                 "topics": [
                   "latex",
                   "resume"
@@ -2017,7 +2017,7 @@
             {
               "node_type": "item",
               "title": "jwasham/coding-interview-university",
-              "description": null,
+              "description": "jwasham/coding-interview-university",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,7 +2030,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362255,
+                "stars": 362262,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -2051,7 +2051,7 @@
             {
               "node_type": "item",
               "title": "简体中文",
-              "description": null,
+              "description": "jwasham/coding-interview-university",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2064,7 +2064,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362255,
+                "stars": 362262,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -2092,7 +2092,7 @@
             {
               "node_type": "item",
               "title": "aylei/interview",
-              "description": null,
+              "description": "aylei/interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2126,7 +2126,7 @@
             {
               "node_type": "item",
               "title": "yifeikong/reverse-interview-zh",
-              "description": null,
+              "description": "perkfly/reverse-interview-zh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2139,7 +2139,7 @@
                 "open_issues": 17,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18520,
+                "stars": 18519,
                 "topics": [
                   "interview",
                   "interview-questions",
@@ -2164,7 +2164,7 @@
             {
               "node_type": "item",
               "title": "huihut/CS-Books",
-              "description": null,
+              "description": "huihut/CS-Books",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2204,7 +2204,7 @@
             {
               "node_type": "item",
               "title": "EbookFoundation/free-programming-books",
-              "description": null,
+              "description": "EbookFoundation/free-programming-books",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2217,7 +2217,7 @@
                 "open_issues": 85,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398336,
+                "stars": 398349,
                 "topics": [
                   "books",
                   "education",
@@ -2238,7 +2238,7 @@
             {
               "node_type": "item",
               "title": "exacity/deeplearningbook-chinese",
-              "description": null,
+              "description": "exacity/deeplearningbook-chinese",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2266,7 +2266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:06:26.134Z",
+    "last_updated": "2026-10-03T04:24:55.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome interview references.",
