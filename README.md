@@ -43,7 +43,7 @@
 
 #### CS-Notes
 
-[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) ⭐ 186,215 | 🐛 198 | 📅 2024-08-21
+[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) ⭐ 186,226 | 🐛 198 | 📅 2024-08-21
 
 😋 技术面试必备基础知识
 
@@ -67,7 +67,7 @@
 
 #### tech-interview-handbook
 
-[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 142,996 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-07
+[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 143,002 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-07
 
 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview （英文）
 
@@ -89,7 +89,7 @@
 
 #### CS-Interview-Knowledge-Map
 
-[InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) ⭐ 18,228 | 🐛 42 | 📅 2020-05-03
+[InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) ⭐ 18,226 | 🐛 42 | 📅 2020-05-03
 
 Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 
@@ -102,7 +102,7 @@ Build the best interview map. The current content includes JS, network, browser 
 
 #### notes
 
-[8483/notes](https://github.com/8483/notes) ⭐ 3,381 | 🐛 17 | 🌐 Shell | 📅 2026-07-14
+[8483/notes](https://github.com/8483/notes) ⭐ 3,382 | 🐛 17 | 🌐 Shell | 📅 2026-07-14
 
 Full-stack web development notes.
 
@@ -124,7 +124,7 @@ Full-stack web development notes.
 
 #### Skill-Tree
 
-[linw7/Skill-Tree](https://github.com/linw7/Skill-Tree) ⭐ 3,714 | 🐛 7 | 🌐 C | 📅 2020-03-03
+[linw7/Skill-Tree](https://github.com/linw7/Skill-Tree) ⭐ 3,715 | 🐛 7 | 🌐 C | 📅 2020-03-03
 
 🐼 准备秋招，欢迎来树上取果实
 
@@ -156,7 +156,7 @@ Awesome Interviews for Coder, Programming Language, Software Engineering, Web, B
 
 #### architect-awesome
 
-[xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,836 | 🐛 64 | 📅 2024-04-11
+[xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,837 | 🐛 64 | 📅 2024-04-11
 
 后端架构师技术图谱
 
@@ -189,7 +189,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 #### advanced-java
 
-[doocs/advanced-java](https://github.com/doocs/advanced-java) ⭐ 79,150 | 🐛 0 | 🌐 Java | 📅 2026-09-24
+[doocs/advanced-java](https://github.com/doocs/advanced-java) ⭐ 79,154 | 🐛 0 | 🌐 Java | 📅 2026-09-24
 
 😮 互联网 Java 工程师进阶知识完全扫盲
 
@@ -211,7 +211,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 #### interview\_internal\_reference
 
-[0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) ⭐ 37,255 | 🐛 35 | 🌐 Python | 📅 2025-10-22
+[0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) ⭐ 37,260 | 🐛 35 | 🌐 Python | 📅 2025-10-22
 
 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 
@@ -235,7 +235,7 @@ About learning Spring Boot via examples. Spring Boot 教程、技术栈示例代
 
 #### Awsome-Front-End-learning-resource
 
-[helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) ⭐ 10,090 | 🐛 12 | 🌐 PHP | 📅 2024-03-16
+[helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) ⭐ 10,088 | 🐛 12 | 🌐 PHP | 📅 2024-03-16
 
 :octocat: GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
 
@@ -281,7 +281,7 @@ How to pass the Node.js interview of ElemeFE.
 
 #### Daily-Interview-Question
 
-[Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) ⭐ 27,354 | 🐛 266 | 🌐 JavaScript | 📅 2020-11-09
+[Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) ⭐ 27,352 | 🐛 266 | 🌐 JavaScript | 📅 2020-11-09
 
 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 
@@ -305,7 +305,7 @@ How to pass the Node.js interview of ElemeFE.
 
 #### vue-analysis
 
-[ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) ⭐ 7,657 | 🐛 67 | 🌐 JavaScript | 📅 2023-07-18
+[ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) ⭐ 7,658 | 🐛 67 | 🌐 JavaScript | 📅 2023-07-18
 
 👍 Vue.js 源码分析 <https://ustbhuangyi.github.io/vue-analysis/>
 
@@ -375,7 +375,7 @@ Deep Learning Interview 深度学习面试题目汇总
 
 #### 2019\_algorithm\_intern\_information
 
-[HarleysZhang/2019\_algorithm\_intern\_information](https://github.com/HarleysZhang/2019_algorithm_intern_information) ⭐ 2,644 | 🐛 0 | 🌐 Python | 📅 2026-05-10
+[HarleysZhang/2019\_algorithm\_intern\_information](https://github.com/HarleysZhang/2019_algorithm_intern_information) ⭐ 2,645 | 🐛 0 | 🌐 Python | 📅 2026-05-10
 
 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结
 
@@ -394,7 +394,7 @@ Deep Learning Interview 深度学习面试题目汇总
 
 #### nndl.github.io
 
-[nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2026-09-24
+[nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) ⭐ 20 | 🐛 0 | 🌐 CSS | 📅 2026-09-24
 
 《神经网络与深度学习》 Neural Network and Deep Learning
 
@@ -407,7 +407,7 @@ Deep Learning Interview 深度学习面试题目汇总
 
 #### pumpkin-book
 
-[datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) ⭐ 26,118 | 🐛 9 | 📅 2026-04-22
+[datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) ⭐ 26,122 | 🐛 9 | 📅 2026-04-22
 
 《机器学习》（西瓜书）公式推导解析，在线阅读地址：<https://datawhalechina.github.io/pumpkin-book>
 
@@ -457,7 +457,7 @@ Java / Android 笔试、面试 知识整理
 
 #### android\_interview
 
-[LRH1993/android\_interview](https://github.com/LRH1993/android_interview) ⭐ 2,944 | 🐛 34 | 🌐 HTML | 📅 2021-02-06
+[LRH1993/android\_interview](https://github.com/LRH1993/android_interview) ⭐ 2,945 | 🐛 34 | 🌐 HTML | 📅 2021-02-06
 
 [gitbook地址](https://lrh1993.gitbooks.io/android_interview_guide/content/)
 
@@ -468,7 +468,7 @@ Java / Android 笔试、面试 知识整理
 
 #### android-interview-questions
 
-[MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) ⭐ 12,369 | 🐛 14 | 🌐 Java | 📅 2026-03-21
+[MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) ⭐ 12,372 | 🐛 14 | 🌐 Java | 📅 2026-03-21
 
 Your Cheat Sheet For Android Interview - Android Interview Questions （英文）
 
@@ -483,7 +483,7 @@ Your Cheat Sheet For Android Interview - Android Interview Questions （英文�
 
 #### iOS-InterviewQuestion-collection
 
-[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) ⭐ 3,232 | 🐛 15 | 🌐 Objective-C | 📅 2021-06-09
+[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) ⭐ 3,231 | 🐛 15 | 🌐 Objective-C | 📅 2021-06-09
 
 iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
 
@@ -522,7 +522,7 @@ iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂�
 
 #### Python
 
-[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) ⭐ 225,203 | 🐛 19 | 🌐 Python | 📅 2026-10-12
+[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) ⭐ 225,227 | 🐛 21 | 🌐 Python | 📅 2026-10-13
 
 All Algorithms implemented in Python
 
@@ -537,7 +537,7 @@ All Algorithms implemented in Python
 
 #### JavaGuide
 
-[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) ⭐ 158,972 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-12
+[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) ⭐ 158,997 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-12
 
 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
@@ -552,7 +552,7 @@ All Algorithms implemented in Python
 
 #### interview
 
-[huihut/interview](https://github.com/huihut/interview) ⭐ 38,245 | 🐛 1 | 🌐 C++ | 📅 2026-09-17
+[huihut/interview](https://github.com/huihut/interview) ⭐ 38,246 | 🐛 2 | 🌐 C++ | 📅 2026-09-17
 
 📚 C/C++面试基础知识总结
 
@@ -587,7 +587,7 @@ All Algorithms implemented in Python
 
 #### The-Art-Of-Programming-By-July
 
-[julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) ⭐ 21,504 | 🐛 64 | 🌐 C | 📅 2023-02-26
+[julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) ⭐ 21,503 | 🐛 64 | 🌐 C | 📅 2023-02-26
 
 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
@@ -609,7 +609,7 @@ All Algorithms implemented in Python
 
 #### Interview
 
-[apachecn/Interview](https://github.com/apachecn/Interview) ⭐ 8,977 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-20
+[apachecn/Interview](https://github.com/apachecn/Interview) ⭐ 8,978 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-20
 
 Interview = 简历指南 + LeetCode + Kaggle
 
@@ -624,7 +624,7 @@ Interview = 简历指南 + LeetCode + Kaggle
 
 #### leetcode
 
-[haoel/leetcode](https://github.com/haoel/leetcode) ⭐ 18,069 | 🐛 54 | 🌐 C++ | 📅 2024-01-17
+[haoel/leetcode](https://github.com/haoel/leetcode) ⭐ 18,073 | 🐛 54 | 🌐 C++ | 📅 2024-01-17
 
 LeetCode Problems' Solutions （**C++**）
 
@@ -635,7 +635,7 @@ LeetCode Problems' Solutions （**C++**）
 
 #### LeetCodeAnimation
 
-[MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) ⭐ 76,705 | 🐛 22 | 🌐 Java | 📅 2026-06-12
+[MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) ⭐ 76,702 | 🐛 22 | 🌐 Java | 📅 2026-06-12
 
 Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
@@ -668,7 +668,7 @@ Demonstrate all the questions on LeetCode in the form of animation.（用动画�
 
 #### LeetCode-Swift
 
-[soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) ⭐ 4,950 | 🐛 35 | 🌐 Swift | 📅 2024-05-18
+[soapyigu/LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) ⭐ 4,949 | 🐛 35 | 🌐 Swift | 📅 2024-05-18
 
 Solutions to LeetCode by **Swift**
 
@@ -679,7 +679,7 @@ Solutions to LeetCode by **Swift**
 
 #### leetcode
 
-[HuberTRoy/leetCode](https://github.com/HuberTRoy/leetCode) ⭐ 1,810 | 🐛 2 | 🌐 Python | 📅 2021-07-26
+[HuberTRoy/leetCode](https://github.com/HuberTRoy/leetCode) ⭐ 1,811 | 🐛 2 | 🌐 Python | 📅 2021-07-26
 
 ✏️ 算法相关知识储备 LeetCode with **Python** 📚
 
@@ -694,7 +694,7 @@ Solutions to LeetCode by **Swift**
 
 #### LintCode
 
-[kamyu104/LintCode](https://github.com/kamyu104/LintCode) ⭐ 631 | 🐛 4 | 🌐 C++ | 📅 2020-10-03
+[kamyu104/LintCode](https://github.com/kamyu104/LintCode) ⭐ 632 | 🐛 4 | 🌐 C++ | 📅 2020-10-03
 
 ✏️ C++ 11 Solutions of All 289 LintCode Problems
 
@@ -746,7 +746,7 @@ Resume template for Chinese programmers . 程序员简历模板系列。包括PH
 
 #### best-resume-ever
 
-[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,487 | 🐛 57 | 🌐 Vue | 📅 2024-06-11
+[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,489 | 🐛 57 | 🌐 Vue | 📅 2024-06-11
 
 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
@@ -757,7 +757,7 @@ Resume template for Chinese programmers . 程序员简历模板系列。包括PH
 
 #### resume
 
-[billryan/resume](https://github.com/billryan/resume) ⭐ 11,477 | 🐛 49 | 🌐 TeX | 📅 2024-03-15
+[billryan/resume](https://github.com/billryan/resume) ⭐ 11,481 | 🐛 49 | 🌐 TeX | 📅 2024-03-15
 
 An elegant \LaTeX\ résumé template
 
@@ -772,11 +772,11 @@ An elegant \LaTeX\ résumé template
 
 #### coding-interview-university
 
-[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 362,423 | 🐛 127 | 📅 2025-08-28
+[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 362,460 | 🐛 128 | 📅 2025-08-28
 
 A complete computer science study plan to become a software engineer.
 
-[简体中文](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) ⭐ 362,423 | 🐛 127 | 📅 2025-08-28
+[简体中文](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) ⭐ 362,460 | 🐛 128 | 📅 2025-08-28
 
 ![GitHub stars](https://img.shields.io/github/stars/jwasham/coding-interview-university.svg?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/jwasham/coding-interview-university.svg)
@@ -785,7 +785,7 @@ A complete computer science study plan to become a software engineer.
 
 #### interview
 
-[aylei/interview](https://github.com/aylei/interview) ⭐ 2,884 | 🐛 1 | 📅 2019-03-11
+[aylei/interview](https://github.com/aylei/interview) ⭐ 2,885 | 🐛 1 | 📅 2019-03-11
 
 写在19年初的后端社招面试经历🤑
 
@@ -796,7 +796,7 @@ A complete computer science study plan to become a software engineer.
 
 #### reverse-interview-zh
 
-[yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,527 | 🐛 17 | 📅 2024-03-04
+[yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,530 | 🐛 17 | 📅 2024-03-04
 
 技术面试最后反问面试官的话
 
@@ -822,7 +822,7 @@ A complete computer science study plan to become a software engineer.
 
 #### free-programming-books
 
-[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,876 | 🐛 81 | 🌐 Python | 📅 2026-10-12
+[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,984 | 🐛 85 | 🌐 Python | 📅 2026-10-12
 
 📚 Freely available programming books <https://ebookfoundation.github.io/free-programming-books/>
 
@@ -833,7 +833,7 @@ A complete computer science study plan to become a software engineer.
 
 #### deeplearningbook-chinese
 
-[exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,793 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
+[exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,796 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
 
 Deep Learning Book Chinese Translation <https://exacity.github.io/deeplearningbook-chinese>
 
@@ -864,4 +864,4 @@ Deep Learning Book Chinese Translation <https://exacity.github.io/deeplearningbo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
