@@ -17,11 +17,11 @@
                 "id": 121395510,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-09T19:57:55Z",
-                "open_issues": 178,
+                "last_commit": "2026-11-14T06:09:00Z",
+                "open_issues": 179,
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 186504,
+                "stars": 186512,
                 "topics": [
                   "algorithm",
                   "computer-science",
@@ -89,7 +89,7 @@
                 "open_issues": 38,
                 "owner": "yangshun",
                 "repo": "tech-interview-handbook",
-                "stars": 143286,
+                "stars": 143291,
                 "topics": [
                   "algorithm",
                   "algorithm-interview",
@@ -128,7 +128,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 85568,
+                "stars": 85589,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -171,7 +171,7 @@
                 "open_issues": 41,
                 "owner": "InterviewMap",
                 "repo": "CS-Interview-Knowledge-Map",
-                "stars": 18214,
+                "stars": 18213,
                 "topics": [
                   "algorithms",
                   "blog",
@@ -388,7 +388,7 @@
                 "open_issues": 17,
                 "owner": "ityouknow",
                 "repo": "spring-boot-examples",
-                "stars": 30430,
+                "stars": 30429,
                 "topics": [
                   "docker",
                   "docker-composer",
@@ -433,11 +433,11 @@
                 "id": 151834062,
                 "language": "Java",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-19T07:37:04Z",
+                "last_commit": "2026-11-14T02:29:01Z",
                 "open_issues": 1,
                 "owner": "doocs",
                 "repo": "advanced-java",
-                "stars": 79177,
+                "stars": 79176,
                 "topics": [
                   "advanced-java",
                   "distributed-search-engine",
@@ -565,7 +565,7 @@
                 "open_issues": 17,
                 "owner": "paddingme",
                 "repo": "Front-end-Web-Development-Interview-Question",
-                "stars": 6841,
+                "stars": 6840,
                 "topics": [
                   "front-end-interview",
                   "interview",
@@ -710,7 +710,7 @@
                 "open_issues": 266,
                 "owner": "Advanced-Frontend",
                 "repo": "Daily-Interview-Question",
-                "stars": 27325,
+                "stars": 27324,
                 "topics": [
                   "css",
                   "interview",
@@ -744,7 +744,7 @@
                 "open_issues": 0,
                 "owner": "ruanyf",
                 "repo": "es6tutorial",
-                "stars": 21411,
+                "stars": 21409,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
@@ -839,7 +839,7 @@
                 "open_issues": 120,
                 "owner": "scutan90",
                 "repo": "DeepLearning-500-questions",
-                "stars": 57713,
+                "stars": 57715,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
@@ -994,7 +994,7 @@
                 "open_issues": 9,
                 "owner": "datawhalechina",
                 "repo": "pumpkin-book",
-                "stars": 26165,
+                "stars": 26164,
                 "topics": [
                   "book",
                   "machine-learning",
@@ -1170,7 +1170,7 @@
                     "open_issues": 15,
                     "owner": "amitshekhariitbhu",
                     "repo": "android-interview-questions",
-                    "stars": 12366,
+                    "stars": 12365,
                     "topics": [
                       "android",
                       "android-interview",
@@ -1289,10 +1289,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-13T04:28:36Z",
-                    "open_issues": 113,
+                    "open_issues": 115,
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 226091,
+                    "stars": 226116,
                     "topics": [
                       "algorithm",
                       "algorithm-competitions",
@@ -1342,7 +1342,7 @@
                     "open_issues": 24,
                     "owner": "Snailclimb",
                     "repo": "JavaGuide",
-                    "stars": 159559,
+                    "stars": 159561,
                     "topics": [
                       "agent",
                       "ai",
@@ -1391,7 +1391,7 @@
                     "open_issues": 3,
                     "owner": "huihut",
                     "repo": "interview",
-                    "stars": 38313,
+                    "stars": 38314,
                     "topics": [
                       "algorithm",
                       "c",
@@ -1508,7 +1508,7 @@
                 "open_issues": 64,
                 "owner": "julycoding",
                 "repo": "The-Art-Of-Programming-By-July-2nd",
-                "stars": 21509,
+                "stars": 21510,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
@@ -1564,7 +1564,7 @@
                 "open_issues": 0,
                 "owner": "apachecn",
                 "repo": "Interview",
-                "stars": 8990,
+                "stars": 8988,
                 "topics": [
                   "interview",
                   "kaggle",
@@ -1628,7 +1628,7 @@
                     "open_issues": 23,
                     "owner": "MisterBooo",
                     "repo": "LeetCodeAnimation",
-                    "stars": 76709,
+                    "stars": 76708,
                     "topics": [
                       "animation",
                       "leetcode",
@@ -1993,7 +1993,7 @@
                 "open_issues": 49,
                 "owner": "billryan",
                 "repo": "resume",
-                "stars": 11564,
+                "stars": 11563,
                 "topics": [
                   "latex",
                   "resume"
@@ -2030,7 +2030,7 @@
                 "open_issues": 23,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 364357,
+                "stars": 364374,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -2064,7 +2064,7 @@
                 "open_issues": 23,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 364357,
+                "stars": 364374,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -2214,10 +2214,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-11-12T18:46:04Z",
-                "open_issues": 93,
+                "open_issues": 101,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 401557,
+                "stars": 401596,
                 "topics": [
                   "books",
                   "education",
@@ -2251,7 +2251,7 @@
                 "open_issues": 70,
                 "owner": "exacity",
                 "repo": "deeplearningbook-chinese",
-                "stars": 37995,
+                "stars": 37993,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:42.497Z"
@@ -2266,7 +2266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:17:40.897Z",
+    "last_updated": "2026-11-15T01:48:10.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome interview references.",
